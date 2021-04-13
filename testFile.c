@@ -13,6 +13,7 @@ int main() {
       first = second;
 
       // Value of temp (initial value of first) is assigned to second
+      // I added more words here!!!
       second = temp;
 
       printf("\nAfter swapping, firstNumber = %.2lf\n", first);
